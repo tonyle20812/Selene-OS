@@ -1,0 +1,2 @@
+# Selene-OS
+ESP32 AI - SPACE STUDIO ///// BETA
