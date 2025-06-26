@@ -1,0 +1,14 @@
+How to turn on webui?          (this is what it should happend in the serial monitor)
+type in the serial monitor
+>>> cd \selvision
+-----------------------------------------------------
+   _____      _                    ____   _____ 
+  / ____|    | |                  / __ \ / ____|
+ | (___   ___| | ___ _ __   ___  | |  | | (___  
+  \___ \ / _ \ |/ _ \ '_ \ / _ \ | |  | |\___ \ 
+  ____) |  __/ |  __/ | | |  __/ | |__| |____) |
+ |_____/ \___|_|\___|_| |_|\___|  \____/|_____/ 
+ 
+ -Starting WebServer...
+ >> IP SERVER : 172.0.0.2
+ >> Type cd \stop    //////  to stop webui
